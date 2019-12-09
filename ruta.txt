@@ -1,0 +1,2 @@
+C:\software\wildfly\wildfly-10.1.0.Final\appclient\configuration/entregaMateriales.properties
+file:C:\Users\v.valdebenito\wildfly-10.1.0.Final\appclient\configuration/entregaMateriales.properties
